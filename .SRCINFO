@@ -10,6 +10,7 @@ pkgbase = virtualgl-git
 	makedepends = mesa
 	makedepends = opencl-headers
 	makedepends = ninja
+	makedepends = libxtst
 	depends = libxv
 	depends = glu
 	depends = libjpeg-turbo
